@@ -1,2 +1,3 @@
 # signal
-prediction_game
+prediction_game using numpy
+
